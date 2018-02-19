@@ -20,10 +20,11 @@ p.caption {
   font-size: 21px;
   color: gray;
 }
-h2.personal {
+.supporting h2 {
   font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
+  color: white;
 }
 p.logo {
   text-align: right;
